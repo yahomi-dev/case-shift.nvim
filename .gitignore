@@ -1,0 +1,6 @@
+# Mac
+.DS_Store
+
+# Lua
+.luarc.json
+.stylua.toml
